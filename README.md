@@ -1,2 +1,2 @@
 # IA
-Todo realcionado en IA 
+Todo relacionado en IA 
